@@ -1,6 +1,6 @@
 <div align="center">
 
-# ░▒▓ ██ OPERATOR IDENT: TH3ROO ██ ▓▒░
+# OPERATOR IDENT: TH3ROO
 ### `CONTRACTOR` // `THERODEV CORP. ASSET` // `CLEARANCE: O5`
 
 <br/>
@@ -21,7 +21,7 @@
 
 ```toml[SYSTEM_OVERRIDE_INITIATED]
 > DATE: CURRENT_EPOCH
-> MSG: "Complexity is vulnerability. Build monolithic resilience."[ASSET_PROFILE]
+> MSG: "Complexity is vulnerability. Build monolithic resilience."
 Callsign       = "Th3roo"
 Affiliation    = "THERODEV CORP. // DIVISION 06"
 Specialization =["Self-Healing Infra", "Zero-Trust Topologies", "GitOps Warfare"]
@@ -46,28 +46,14 @@ Prime_Directive= "Minimize entropy. Maximize operational uptime."
 
 <br/>
 
-### **/// OPERATIONAL_METRICS**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Th3roo&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_radius=0&theme=dark" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3roo&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&border_radius=0&theme=dark" width="48%" />
-
-</div>
-
-<br/>
-
 ### **/// SECURE_COMMS_LINK**
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/SECURE_LINK-THERODEV.COM-000000?style=for-the-badge&logo=torbrowser&logoColor=white&labelColor=111111)](https://therodev.com)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/Th3roo)
-[![Telegram](https://img.shields.io/badge/ENCRYPTED_COMMS-TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111)](#)
 
 <br/>
-
-`██████████████████████████████████████████████████████████`  
 `END OF TRANSMISSION // © THERODEV CORP.`
 
 </div>
