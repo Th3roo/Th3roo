@@ -17,21 +17,6 @@
 
 <br/>
 
-### **/// OPERATOR_MANIFEST**
-
-```toml[SYSTEM_OVERRIDE_INITIATED]
-> DATE: CURRENT_EPOCH
-> MSG: "Complexity is vulnerability. Build monolithic resilience."
-Callsign       = "Th3roo"
-Affiliation    = "THERODEV CORP. // DIVISION 06"
-Specialization =["Self-Healing Infra", "Zero-Trust Topologies", "GitOps Warfare"]
-Prime_Directive= "Minimize entropy. Maximize operational uptime."
-```
-
-<br/>
-
-### **/// TACTICAL_ASSETS & ORCHESTRATION**
-
 <div align="center">
 
 | **SYSTEM_CLASS** | **DEPLOYED_TECHNOLOGIES** |
@@ -46,14 +31,11 @@ Prime_Directive= "Minimize entropy. Maximize operational uptime."
 
 <br/>
 
-### **/// SECURE_COMMS_LINK**
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/SECURE_LINK-THERODEV.COM-000000?style=for-the-badge&logo=torbrowser&logoColor=white&labelColor=111111)](https://therodev.com)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/Th3roo)
 
-<br/>
-`END OF TRANSMISSION // © THERODEV CORP.`
 
 </div>
