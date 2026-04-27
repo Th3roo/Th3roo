@@ -6,7 +6,7 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE_DUTY-000000?style=for-the-badge&labelColor=238636&logo=checkmarx&logoColor=white)
-![Role](https://img.shields.io/badge/ROLE-INFRA_ARCHITECT-000000?style=for-the-badge&labelColor=111111&logo=blueprint&logoColor=white)
+![Role](https://img.shields.io/badge/ROLE-SITE-RELIABILITY-ENGINEER-000000?style=for-the-badge&labelColor=111111&logo=blueprint&logoColor=white)
 ![Location](https://img.shields.io/badge/LOC-UNDISCLOSED-000000?style=for-the-badge&labelColor=111111&logo=radar&logoColor=white)
 ![Clearance](https://img.shields.io/badge/ORG-THERODEV-000000?style=for-the-badge&labelColor=D24A22&logo=palantir&logoColor=white)
 
